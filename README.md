@@ -3,4 +3,4 @@ First Repository (Test)
 
 Welcome to Trikey Studios
 
-This is our welcome message. :)
+There is no content (yet!).
