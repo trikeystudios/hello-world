@@ -3,4 +3,4 @@ First Repository (Test)
 
 Welcome to Trikey Studios
 
-There is no content (yet!).
+Content upcoming.
